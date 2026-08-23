@@ -1,0 +1,251 @@
+timestamp_utc,headline,product_release
+2012-11-20 14:42:00+00:00,Datadog Announces $6.2M Investment from Index Ventures and RTP Ventures,TRUE
+2013-06-11 09:00:00+00:00,Datadog Empowers Dev and Ops Teams in Seconds to See the IT Infrastructure Data that Matters,FALSE
+2013-08-06 09:00:00+00:00,Datadog Addresses Top AWS Performance Problems,TRUE
+2013-09-25 09:00:00+00:00,Datadog Highlights How to Resolve Top 5 Redis Performance Issues,FALSE
+2013-10-09 09:00:00+00:00,"Datadog Pinpoints Issues in AWS, HP Cloud and OpenStack Environments",FALSE
+2013-10-31 00:00:00+00:00,Datadog Reports Record Q3 Revenue Growth,FALSE
+2014-02-04 00:00:00+00:00,Datadog Raises $15 Million to Deliver Scalable Monitoring for Next-Generation Cloud Deployments,FALSE
+2014-11-04 09:00:00+00:00,Datadog joins Google Cloud Platform Partner Ecosystem to Monitor Infrastructure and Applications at Scale,FALSE
+2015-01-29 09:00:00+00:00,Datadog Raises $31M in Series C Funding,FALSE
+2015-02-11 09:00:00+00:00,Datadog Acquires Mortar Data to Enhance Analytics for Cloud Monitoring,TRUE
+2015-05-04 09:30:00+00:00,Datadog Enhances Performance Monitoring with Microsoft Azure,TRUE
+2015-06-09 08:00:00+00:00,Datadog Demonstrates Integration with Docker Platform as Part of Ecosystem Technology Partner (ETP) Program for Monitoring,FALSE
+2015-09-21 12:00:00+00:00,Datadog One of Best Places to Work in New York City,FALSE
+2015-09-29 12:00:00+00:00,Datadog Launches Monitoring for Docker Containers Managed by Amazon ECS,TRUE
+2015-10-15 09:00:00+00:00,Datadog Opens New R&D Innovation Lab in Paris,FALSE
+2016-01-12 07:30:00+00:00,Datadog Raises $94.5M in Series D Funding,FALSE
+2016-06-16 09:00:00+00:00,"CloudHealth Partners with Datadog, Connecting Cloud Performance Metrics to Cloud Costs for Enterprise and Fast-Growing Technology Companies",FALSE
+2016-06-20 09:00:00+00:00,"Datadog Introduces Monitoring For Highly Dynamic Docker Environments, Releases Latest Docker Adoption Research",TRUE
+2016-07-11 09:00:00+00:00,Datadog Expands Monitoring Solution Across Stack for Microsoft Customers,TRUE
+2016-08-10 08:00:00+00:00,"Datadog Announces Integration With AWS Lambda, Enables Support for Serverless Architectures",TRUE
+2016-11-16 17:16:00+00:00,AWS Announces Flexible SaaS Subscriptions for AWS Marketplace,TRUE
+2016-11-29 14:15:00+00:00,Datadog Announces Support for Various Amazon Web Services Features at AWS re:Invent 2016,TRUE
+2016-12-12 09:05:00+00:00,Datadog Ranked Top Ten Fastest Growing Companies in North America on Deloitte’s 2016 Fast 500 List,FALSE
+2017-01-10 10:32:00+00:00,Datadog Announces Interactive “Notebooks” For Data-Driven Storytelling,TRUE
+2017-02-15 10:03:00+00:00,Datadog Announces General Availability of Application Performance Monitoring,TRUE
+2017-02-23 11:05:00+00:00,Datadog Completes SOC 2 Report,FALSE
+2017-03-06 12:59:00+00:00,Datadog Completes Docker Certification Program for their Full Stack Monitoring Service,FALSE
+2017-03-14 13:00:00+00:00,Datadog’s New “Composite Alerts” Feature Dramatically Reduces Alert Noise for DevOps Teams,TRUE
+2017-05-03 10:12:00+00:00,Datadog Adds Support for Microsoft Azure Storage,TRUE
+2017-05-18 10:00:00+00:00,Datadog Announces New Senior Vice President of Alliances,TRUE
+2017-06-13 11:05:00+00:00,Datadog Announces New Integration With Cloud Foundry,TRUE
+2017-07-05 12:05:00+00:00,"Datadog Announces Integration with AWS CodeDeploy, Helping Software Developers Resolve Faulty Code Deployments",TRUE
+2017-09-07 10:05:00+00:00,"Datadog Acquires Logmatic.io, Adding Log Management to its Full-Stack Cloud Monitoring Platform",TRUE
+2017-10-17 07:00:00+00:00,Datadog Introduces Live Container Monitoring,TRUE
+2017-11-20 03:00:00+00:00,Datadog Announces European Expansion,TRUE
+2017-11-30 13:34:00+00:00,Datadog Completes SOC 2 Type II Report,FALSE
+2017-12-06 10:05:00+00:00,"Datadog Announces Support for OpenTracing, Pairing Vendor-Neutral Standards with Powerful Application Performance Monitoring",TRUE
+2017-12-12 09:55:00+00:00,Datadog’s New “Forecasts” Feature Predicts When Problems Will Arise in the Cloud,TRUE
+2018-02-01 10:00:00+00:00,Datadog Announces Java Support for Application Performance Monitoring and Distributed Tracing,TRUE
+2018-03-06 10:00:00+00:00,Datadog Announces General Availability of Log Management,TRUE
+2018-05-29 22:00:00+00:00,Datadog Opens Japanese Headquarters and Appoints Country Manager to Lead Operations,FALSE
+2018-06-11 15:00:00+00:00,Datadog Announces Support for Amazon Elastic Container Service for Kubernetes,TRUE
+2018-06-13 17:50:00+00:00,EY Names Datadog co-Founders Olivier Pomel and Alexis Lê-Quôc Entrepreneur Of The Year® 2018 Award Winners,FALSE
+2018-07-12 10:00:00+00:00,Datadog Introduces Logging without Limits™,TRUE
+2018-07-12 10:00:01+00:00,Datadog Announces Global Search and Analytics for Application Traces,TRUE
+2018-07-12 10:00:02+00:00,Datadog Adds “Watchdog” Autonomous Monitoring,TRUE
+2018-10-18 05:00:00+00:00,Datadog Launches EU Region in Germany,TRUE
+2018-11-05 10:00:00+00:00,Datadog Appoints David Obstler as Chief Financial Officer,FALSE
+2018-11-19 10:00:00+00:00,Datadog Adds Synthetic Monitoring,TRUE
+2018-11-19 10:00:01+00:00,Datadog Enhances Monitoring for Serverless Applications in AWS,TRUE
+2019-03-27 14:08:00+00:00,Datadog Announces General Availability of Integration with Amazon Web Services App Mesh,TRUE
+2019-04-16 13:30:00+00:00,Datadog Launches Machine Learning Driven Software Test Automation,TRUE
+2019-04-16 13:30:01+00:00,Datadog Announces Support for IBM AIX,TRUE
+2019-04-23 10:00:00+00:00,Datadog Named a Leader in Intelligent Application and Service Monitoring by Independent Research Firm,FALSE
+2019-05-30 10:00:00+00:00,Datadog Provides HIPAA Compliant Log Management,FALSE
+2019-07-11 09:05:00+00:00,Datadog Achieves AWS Microsoft Workloads Competency Status,FALSE
+2019-07-11 16:33:00+00:00,Datadog Announces Support for Microsoft Azure Lighthouse,TRUE
+2019-07-11 16:48:00+00:00,Datadog Announces Support for Microsoft Azure Deployment Manager,TRUE
+2019-07-11 16:56:00+00:00,Datadog Announces Support for Amazon EventBridge,TRUE
+2019-07-17 10:00:00+00:00,Datadog Announces New Cost Optimization Features for its Log Management Platform,TRUE
+2019-07-17 10:00:01+00:00,Datadog Announces Real User Monitoring,TRUE
+2019-07-17 10:00:02+00:00,Datadog Announces Network Performance Monitoring,TRUE
+2019-07-17 10:00:03+00:00,Monitoring for Serverless Workloads Now Generally Available in Datadog,TRUE
+2019-07-18 14:49:00+00:00,Datadog Achieves AWS Migration Competency Status,FALSE
+2019-08-23 15:10:00+00:00,Datadog Files Registration Statement for Proposed Initial Public Offering,FALSE
+2019-09-26 16:05:00+00:00,Datadog Announces General Availability of Support for Alibaba Cloud,TRUE
+2019-10-24 16:05:00+00:00,Datadog Announces FedRAMP “In Process” Milestone,TRUE
+2019-11-12 20:00:00+00:00,Datadog Establishes Japanese Subsidiary,FALSE
+2019-11-21 16:05:00+00:00,Datadog Announces Security Monitoring,TRUE
+2019-12-03 13:41:00+00:00,Datadog Announces Support for AWS Fargate for Amazon EKS,TRUE
+2019-12-12 16:05:00+00:00,Datadog Announces Integration with Microsoft Azure DevOps,TRUE
+2020-01-16 17:00:00+00:00,Datadog Launches Partner Network,TRUE
+2020-01-16 17:00:01+00:00,Datadog Launches Partner Network in Australia and New Zealand,TRUE
+2020-02-04 20:00:00+00:00,Datadog Announces Japan Country Manager,TRUE
+2020-02-18 16:05:00+00:00,Datadog Achieves ISO 27001 Certification and ISO 27017 and 27018 Compliance,FALSE
+2020-02-25 17:35:00+00:00,Datadog Announces Integration with Nessus,TRUE
+2020-04-23 16:05:00+00:00,Datadog Announces General Availability of Security Monitoring,TRUE
+2020-04-28 17:33:00+00:00,Datadog Achieves AWS Lambda Ready Designation,FALSE
+2020-06-02 16:05:00+00:00,Datadog Is Recognized as a 2020 Gartner Peer Insights Customers’ Choice for IT Infrastructure Monitoring Tools,FALSE
+2020-06-17 16:05:00+00:00,Datadog Announces Integration with Amazon Elastic File System for AWS Lambda,TRUE
+2020-06-18 16:05:00+00:00,Datadog Achieves FedRAMP Low-Impact SaaS Authorization,FALSE
+2020-07-16 16:05:00+00:00,Datadog Announces General Availability of Private Locations for Synthetic Monitoring,TRUE
+2020-07-29 18:51:00+00:00,Datadog Announces Support for Streaming Logs with Amazon Data Firehose,TRUE
+2020-08-05 16:05:00+00:00,Datadog Wins 2020 AWS Public Sector Partners Award,FALSE
+2020-08-06 16:10:00+00:00,Datadog Acquires Undefined Labs to Provide Visibility into CI/CD Workflows,FALSE
+2020-08-11 11:00:00+00:00,Datadog Launches Compliance Monitoring To Continuously Monitor Production Environments for Misconfigurations,TRUE
+2020-08-11 11:00:01+00:00,Datadog Launches Application Marketplace,TRUE
+2020-08-11 11:00:02+00:00,"Datadog Launches Incident Management to Unify Disparate Data, Documentation and Collaboration During Incident Response",TRUE
+2020-08-11 11:00:03+00:00,"Datadog Releases Error Tracking to Aggregate, Triage and Prioritize Frontend Application Errors",TRUE
+2020-08-11 11:00:04+00:00,Datadog Releases Continuous Profiler for Low-Overhead Application Code Profiling,TRUE
+2020-08-19 16:00:00+00:00,Datadog Achieves FedRAMP Moderate-Impact “In Process” Status,FALSE
+2020-09-14 17:05:00+00:00,Datadog Announces Distributed Tracing for AWS Step Functions,TRUE
+2020-09-15 13:13:00+00:00,Datadog Achieves AWS Outposts Ready Designation,FALSE
+2020-09-17 13:00:00+00:00,Datadog Announces ServiceNow Service Graph Connector,TRUE
+2020-09-30 11:00:00+00:00,Datadog and Microsoft Announce Strategic Partnership,TRUE
+2020-10-06 16:05:00+00:00,Datadog Releases Deployment Tracking to Identify When Performance Issues Are Caused by New Code Deploys,TRUE
+2020-10-16 20:05:00+00:00,Datadog is recognized as a 2020 Gartner Peer Insights Customers’ Choice for Application Performance Monitoring,FALSE
+2020-11-10 21:10:00+00:00,Datadog and Google Cloud Extend Strategic Partnership into New Regions,TRUE
+2020-11-10 21:10:01+00:00,Datadog Releases Monitoring Features for Detecting and Debugging DNS Issues,TRUE
+2020-12-16 18:35:00+00:00,Datadog Announces Integration Between Compliance Monitoring and the AWS Well-Architected Tool,TRUE
+2020-12-17 21:05:00+00:00,Datadog Releases Capabilities to Correlate User Sessions with Backend Application Traces,TRUE
+2020-12-21 21:05:03+00:00,Datadog Helps ParkMobile Migrate to the Cloud and Eliminate Data Center,FALSE
+2021-02-09 21:05:00+00:00,Mendix Selects Datadog for Monitoring Multi-Cloud Microservices Environment,FALSE
+2021-02-11 21:10:00+00:00,Datadog Signs Definitive Agreement to Acquire Sqreen,FALSE
+2021-02-11 21:10:01+00:00,Datadog Acquires Timber Technologies,FALSE
+2021-03-31 20:05:00+00:00,Datadog First to Launch Windows Server Monitoring of Live Traffic,TRUE
+2021-04-12 20:05:00+00:00,Datadog Completes Acquisition of Sqreen,FALSE
+2021-04-14 20:05:00+00:00,Datadog Named a Leader in the 2021 Gartner Magic Quadrant for Application Performance Monitoring,FALSE
+2021-05-06 20:10:00+00:00,Datadog Appoints Adam Blitzer as Chief Operating Officer,FALSE
+2021-05-19 00:41:00+00:00,Datadog Announces Support for Application Monitoring with AWS App Runner,TRUE
+2021-05-24 17:19:00+00:00,Datadog Extension for AWS Lambda Now Generally Available,TRUE
+2021-07-01 20:10:00+00:00,Datadog Announces Real-Time Monitoring and Threat Detection for the Salesforce Platform,TRUE
+2021-07-22 20:30:00+00:00,Datadog Achieves AWS Government Competency Status,FALSE
+2021-07-29 20:30:00+00:00,Datadog Announces Availability on Google Cloud Marketplace to Support Customers’ Cloud Migrations,TRUE
+2021-08-04 20:30:44+00:00,Datadog Launches Cloud Security Platform to Provide Security Teams with Unprecedented Observability Capabilities,TRUE
+2021-08-17 21:43:00+00:00,Datadog Announces Deep Database Monitoring,TRUE
+2021-10-26 16:30:00+00:00,Datadog Introduces Datadog Apps to Extend Platform to Third-Party Applications,TRUE
+2021-10-26 16:30:01+00:00,"Datadog Announces Network Device Monitoring to Monitor Any Environment, Anywhere",TRUE
+2021-10-26 16:30:02+00:00,Datadog Launches Session Replay to Help All Organizations Build Better Digital Experiences,TRUE
+2021-10-26 16:30:03+00:00,Datadog Delivers Industry-First Observability for Software Build and Testing Pipelines,FALSE
+2021-10-26 16:30:04+00:00,Datadog Introduces Online Archives for Log Management to Support Historical Investigation and Analysis,TRUE
+2021-11-04 20:05:00+00:00,Datadog Completes Acquisition of Ozcode,FALSE
+2021-11-29 22:49:51+00:00,Datadog Achieves AWS Migration & Modernization Competency Status,FALSE
+2021-11-30 23:35:00+00:00,Datadog Achieves AWS Graviton Ready Designation,FALSE
+2021-12-09 21:05:00+00:00,Datadog Launches Service to Protect Sensitive Data and Assist with Compliance Requirements,TRUE
+2022-01-05 21:05:18+00:00,Datadog Announces Global Strategic Partnership with AWS for Observability and Security,TRUE
+2022-01-19 22:40:00+00:00,Datadog Appoints Sean Walters as Chief Revenue Officer and Kerry Acocella as General Counsel,FALSE
+2022-01-26 21:05:00+00:00,Datadog Achieves FedRAMP Moderate-Impact Authorization,FALSE
+2022-02-10 12:00:00+00:00,Datadog Completes Acquisition of CoScreen to Add Real-Time Collaboration for Developers,TRUE
+2022-03-30 20:05:00+00:00,Datadog Partners with Microsoft for the Azure Cloud Adoption Framework,FALSE
+2022-04-13 20:05:00+00:00,Datadog Expands Its Watchdog AI Engine with Root Cause Analysis and Log Anomaly Detection,TRUE
+2022-04-28 20:05:00+00:00,Datadog Launches Application Security Management to Break Down Silos Between Security and Operations Teams,TRUE
+2022-05-05 11:00:01+00:00,Datadog Signs Definitive Agreement to Acquire Hdiv Security,FALSE
+2022-05-16 12:00:14+00:00,Datadog Announces OpenTelemetry Protocol Support,TRUE
+2022-05-16 12:00:19+00:00,Datadog Enhances Monitoring and Security for Kubernetes,TRUE
+2022-05-25 20:05:23+00:00,Datadog Achieves AWS Education Competency Status,FALSE
+2022-06-02 14:08:00+00:00,Datadog Appoints Titi Cole to Its Board of Directors,FALSE
+2022-06-02 20:05:06+00:00,Datadog’s 2022 State of Serverless Report Finds Serverless Reaching Mainstream Adoption,FALSE
+2022-06-10 18:31:00+00:00,Datadog Named a Leader in the 2022 Gartner® Magic Quadrant™ for Application Performance Monitoring and Observability,FALSE
+2022-06-16 21:00:21+00:00,"Datadog Launches Observability Pipelines To Help Organizations Collect, Manage and Route Observability Data",TRUE
+2022-06-23 20:05:00+00:00,Datadog Launches Audit Trail to Help Businesses Achieve Their Compliance and Governance Objectives,TRUE
+2022-08-04 11:30:00+00:00,Datadog Acquires Seekret to Make API Observability Accessible,FALSE
+2022-08-16 20:05:57+00:00,Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms,TRUE
+2022-08-18 20:05:57+00:00,Datadog Announces Return of Dash Conference to New York City,TRUE
+2022-08-23 20:05:00+00:00,"Datadog Achieves AWS Security, Networking and Retail Competencies",FALSE
+2022-10-04 20:05:00+00:00,Datadog Launches Certification Program to Strengthen and Validate Power-Users' Knowledge of the Datadog Platform,TRUE
+2022-10-19 16:00:00+00:00,Datadog Launches Unified End-to-End Testing Platform,TRUE
+2022-10-19 16:00:01+00:00,Datadog Introduces Cloud Cost Management,TRUE
+2022-10-19 16:00:02+00:00,Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection,TRUE
+2022-10-19 16:00:03+00:00,Datadog Announces PCI Compliance for Log Management and APM,TRUE
+2022-11-02 16:00:00+00:00,Datadog's 2022 Container Report Finds Organizations Expanding Container Adoption with Improved Ability to Scale and Manage Complex Environments,TRUE
+2022-11-03 11:00:00+00:00,Datadog Acquires Cloudcraft to Create Live Cloud Architecture Diagrams,FALSE
+2022-11-29 21:05:00+00:00,Datadog Announces Integration with Amazon Security Lake,TRUE
+2022-11-29 21:05:01+00:00,Datadog Launches Universal Service Monitoring,TRUE
+2023-04-18 20:05:23+00:00,Datadog Expands Application Security Capabilities to Automatically Uncover Vulnerabilities in Production Code,TRUE
+2023-04-19 20:05:00+00:00,Datadog Launches New Data Center in Japan,FALSE
+2023-04-25 20:05:00+00:00,Datadog's 2023 State of Application Security Report Presents Top AppSec Trends,FALSE
+2023-04-27 20:05:00+00:00,Datadog Releases Data Streams Monitoring to Assess Streaming Data Pipeline Performance,TRUE
+2023-05-10 13:00:00+00:00,"Datadog Integrates with OpenAI ChatGPT to Help Organizations Monitor AI Usage, Costs and Performance",FALSE
+2023-05-23 20:05:00+00:00,"Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models",FALSE
+2023-06-05 20:05:00+00:00,Datadog Launches Workflow Automation for Faster Remediation of Application Issues,TRUE
+2023-06-07 20:05:00+00:00,"Datadog Extends Cloud Cost Management Capabilities with Container Cost Allocation, Cost Monitors and Support for Microsoft Azure",TRUE
+2023-06-13 20:05:00+00:00,Datadog Announces Annual DASH Conference Set for San Francisco in August,TRUE
+2023-07-10 18:14:00+00:00,Datadog Named a Leader in the 2023 Gartner® Magic Quadrant™ For Application Performance Monitoring And Observability,FALSE
+2023-08-03 17:00:00+00:00,"Datadog Announces Security Inbox to Help Engineers Prioritize Issues, Save Time and Improve Security Posture",TRUE
+2023-08-03 17:00:01+00:00,Datadog Introduces Intelligent Test Runner to Help Developers Reduce the Time to Deploy Application Changes,TRUE
+2023-08-03 17:00:02+00:00,Datadog Announces Historical Investigations for Cloud SIEM,TRUE
+2023-08-03 17:00:03+00:00,"Datadog Launches Low-Cost, High-Volume Log Management Tier",TRUE
+2023-08-03 17:00:04+00:00,Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications,TRUE
+2023-08-03 17:00:05+00:00,"Datadog Announces Bits, an AI Assistant to Help Engineers Quickly Resolve Application Issues",TRUE
+2023-08-24 16:00:00+00:00,Datadog Report Finds the Serverless Ecosystem Growing Across All Major Clouds,FALSE
+2023-11-02 20:29:00+00:00,"Datadog Announces 2023 Report on Real-World Container Use, Reveals Rise in Serverless Containers",TRUE
+2023-11-08 21:05:00+00:00,Datadog Expands Strategic Partnership with Google Cloud and Integrates with Vertex AI,TRUE
+2023-11-15 17:30:00+00:00,Datadog Releases 2023 State of Cloud Security Report,TRUE
+2023-11-27 17:00:00+00:00,"Datadog Adds Identity, Vulnerability and App-Level Findings to Security Inbox to Help DevOps and Security Teams Address Issues Quickly",TRUE
+2023-11-27 17:00:01+00:00,Datadog Expands Observability and Security Support for AWS Serverless Workloads,TRUE
+2024-02-05 21:05:00+00:00,Datadog Welcomes Sara Varni as New Chief Marketing Officer,FALSE
+2024-04-03 20:05:00+00:00,Datadog Announces Annual DASH Conference Returning to New York City June 25 and 26,TRUE
+2024-04-09 13:00:00+00:00,Datadog Receives 2024 Google Cloud Technology Partner of the Year Awards for AppDev and Marketplace,FALSE
+2024-04-17 20:05:00+00:00,Datadog's State of DevSecOps 2024 Report Finds Organizations Aren't Fully Embracing Automation for Securing Cloud Deployments,FALSE
+2024-05-06 20:05:00+00:00,Datadog Launches IT Event Management to Enhance AIOps Capabilities,TRUE
+2024-06-13 20:05:00+00:00,Datadog's State of Cloud Costs 2024 Report Finds Spending on GPU Instances Growing 40% as Organizations Experiment with AI,FALSE
+2024-06-17 20:05:00+00:00,Datadog Launches New App Builder for DevSecOps Teams,TRUE
+2024-06-20 20:05:00+00:00,"Datadog Launches New Product to Observe, Troubleshoot and Optimize Data Processing Jobs",TRUE
+2024-06-26 14:00:00+00:00,Datadog Live Debugger Streamlines Troubleshooting and Bug Resolution with Live Production Data,FALSE
+2024-06-26 14:00:01+00:00,Datadog Launches Cloud and Application Security Capabilities Covering Development and Production Environments,TRUE
+2024-06-26 14:00:02+00:00,Datadog Introduces Unified OpenTelemetry Collector and Agent Experience,TRUE
+2024-06-26 14:00:03+00:00,Datadog Announces Kubernetes Autoscaling to Help Teams Intelligently Optimize Resources and Cloud Costs,TRUE
+2024-06-26 14:00:04+00:00,"Datadog LLM Observability Is Now Generally Available to Help Businesses Monitor, Improve and Secure Generative AI Applications",TRUE
+2024-06-26 14:00:05+00:00,"Datadog Announces Log Workspaces, a Workbench for Extracting Insights from Log Data",TRUE
+2024-06-26 14:00:06+00:00,Datadog On-Call Launches to Deliver Observability-Enriched Paging and Unified Incident Management Capabilities,TRUE
+2024-07-03 20:05:00+00:00,Datadog Welcomes David Galloreese as New Chief People Officer,FALSE
+2024-08-05 20:05:00+00:00,Datadog Appoints Yanbing Li as Chief Product Officer,FALSE
+2024-08-14 17:00:00+00:00,Datadog Named a Leader in the 2024 Gartner® Magic Quadrant™ For Observability Platforms,FALSE
+2024-09-10 13:00:00+00:00,Datadog Announces the General Availability of Datadog Monitoring for Oracle Cloud Infrastructure,TRUE
+2024-10-21 20:05:00+00:00,Datadog's State of Cloud Security 2024 Finds Room for Improvement in the Use of Long-Lived Credentials Across All Major Clouds,FALSE
+2024-10-24 16:11:00+00:00,Datadog Named a Leader in the 2024 Gartner® Magic Quadrant™ For Digital Experience Monitoring,FALSE
+2024-11-12 14:00:00+00:00,Datadog Introduces Kubernetes Active Remediation to Provide Curated Guidance and End-to-End Management of Kubernetes Environments,TRUE
+2024-12-02 14:00:00+00:00,Datadog Database Monitoring Adds Deep Cluster- and Query-Level Visibility for MongoDB,TRUE
+2024-12-02 14:00:01+00:00,"Datadog Unveils Modern Approach to Cloud SIEM to Deliver Risk-Based Insights, Scalability, Cost Efficiency and Real-Time Detection",FALSE
+2024-12-02 14:00:02+00:00,Datadog Highlights Advanced AI/ML and AWS Monitoring Capabilities at re:Invent,FALSE
+2025-02-20 16:05:00+00:00,Datadog Opens Registration for Its 2025 DASH Conference,FALSE
+2025-04-02 18:00:00+00:00,Datadog Unveils Plans for Data Center in Australia,FALSE
+2025-04-09 00:00:00+00:00,Datadog Adds to Its Google Cloud Observability Capabilities with Expanded BigQuery Monitoring,TRUE
+2025-04-15 10:03:00+00:00,Datadog Named a Leader in AIOps by Independent Research Firm,FALSE
+2025-04-23 08:00:00+00:00,Datadog Brings Observability to Data Teams by Acquiring Metaplane,FALSE
+2025-04-23 16:05:00+00:00,Datadog’s State of DevSecOps 2025 Report Finds Only 18% of Critical Vulnerabilities Are Truly Worth Prioritizing,FALSE
+2025-05-05 08:55:00+00:00,"Datadog Acquires Eppo to Expand Its AI, Product Analytics, Experimentation and Feature Flag Capabilities",TRUE
+2025-05-14 05:00:00+00:00,Kumail Nanjiani to Join Datadog’s DASH Conference as Featured Speaker,TRUE
+2025-05-21 16:05:00+00:00,Datadog AI Research Launches New Open-Weights AI Foundation Model and Observability Benchmark,TRUE
+2025-05-21 16:05:01+00:00,Datadog for Government Achieves FedRAMP® High ‘In Process’ Status to Support Mission-Critical Federal Workloads,FALSE
+2025-06-10 16:05:00+00:00,Datadog Expands AI Security Capabilities to Enable Comprehensive Protection from Critical AI Risks,TRUE
+2025-06-10 16:05:01+00:00,Datadog Unveils Latest AI Agents to Rapidly Resolve Application Issues,FALSE
+2025-06-10 16:05:02+00:00,Datadog Launches Internal Developer Portal to Give Engineering Teams Autonomy and Help Them Ship Production-Ready Code Quickly,TRUE
+2025-06-10 16:05:03+00:00,"Datadog Expands Log Management Offering with New Long-Term Retention, Search and Data Residency Capabilities",TRUE
+2025-06-10 16:05:04+00:00,"Datadog Expands LLM Observability with New Capabilities to Monitor Agentic AI, Accelerate Development, and Improve Model Performance",TRUE
+2025-06-20 09:00:00+00:00,"Datadog Ranked on Forbes’ Global 2000 List, Recognizing Global Impact and Financial Strength",FALSE
+2025-07-09 09:00:00+00:00,Datadog Joins the S&P 500 Index,FALSE
+2025-07-10 12:30:00+00:00,Datadog Named a Leader in the 2025 Gartner® Magic Quadrant™ For Observability Platforms,FALSE
+2025-07-16 16:00:00+00:00,Datadog Partners with AWS to Launch Australia and New Zealand Regions,TRUE
+2025-08-18 20:00:00+00:00,Flight Centre Travel Group Picks Datadog to Fuel Global Observability Strategy and Reduce Cloud Costs,FALSE
+2025-08-20 16:05:00+00:00,Datadog for Government Achieves 'In Process' Authorization for GovRAMP High,FALSE
+2025-09-11 16:05:00+00:00,Datadog Appoints Ami Vora to Its Board of Directors,FALSE
+2025-10-06 09:00:00+00:00,"Datadog Reaches 1,000 Integrations as Customers Continue to Observe Mission-Critical Data and Processes on Its Unified Platform",FALSE
+2025-10-08 13:00:00+00:00,Datadog’s 2025 State of Cloud Security Report Finds Companies Adopting Data Perimeters Amid Growing Concerns of Credential Theft,FALSE
+2025-10-08 18:00:00+00:00,Datadog Achieves IRAP Protected Status in Australia,FALSE
+2025-10-13 09:00:00+00:00,Datadog Announces Expanded Support for Oracle Cloud Infrastructure,TRUE
+2025-10-29 13:00:00+00:00,Datadog Named a Leader in the 2025 Gartner® Magic Quadrant™ for Digital Experience Monitoring,FALSE
+2025-11-10 18:05:00+00:00,Datadog Launches Storage Management to Help Teams Eliminate Unnecessary Cloud Object Storage,TRUE
+2025-11-19 16:05:00+00:00,Datadog Welcomes John Trapani as Field CTO for Financial Services,FALSE
+2025-11-19 19:05:00+00:00,Culture Amp Taps Datadog to Accelerate Green Goals and Elevate End-User Experience,FALSE
+2025-12-02 09:00:00+00:00,Datadog Launches Bits AI SRE Agent to Resolve Incidents Faster,TRUE
+2025-12-03 20:00:00+00:00,"Datadog Announces Expanded Collaboration Agreement, Highlights New Capabilities with AWS Across AI, Observability and Security at AWS re:Invent",TRUE
+2026-01-28 09:00:00+00:00,THE ICONIC strengthens platform reliability with Datadog to keep shopping seamless,FALSE
+2026-02-03 09:00:00+00:00,Datadog Launches Feature Flags to Help Engineering Teams Ship New Functionality Quickly and Reliably,TRUE
+2026-02-18 17:00:00+00:00,Datadog Announces DASH 2026: the AI and Observability Event of the Year,TRUE
+2026-02-25 22:00:00+00:00,Datadog and Sakana AI Announce Strategic Partnership to Advance AI Innovation and Observability for Enterprises,TRUE
+2026-02-26 09:00:00+00:00,"87% of Organizations Are Running Software With Known, Exploitable Vulnerabilities, Datadog Finds",FALSE
+2026-03-02 21:30:00+00:00,Datadog Appoints Dominic Phillips to Its Board of Directors,FALSE
+2026-03-09 04:00:00+00:00,"Datadog Launches MCP Server to Provide AI Agents with Secure, Real-Time Access to Unified Observability Data",TRUE
+2026-03-09 09:00:00+00:00,Datadog Plans to Launch New UK Data Centre Presence as Cloud Adoption in Regulated Industries Accelerates,FALSE
+2026-03-23 04:01:00+00:00,Bits AI Security Analyst Reduces Threat Investigation Time by up to 98%,FALSE
+2026-04-02 13:00:00+00:00,Datadog Experiments Launches to Help Teams Connect Every Product Change to Business Outcomes,TRUE
+2026-04-21 13:00:00+00:00,"AI Is Hitting Operational Limits as Companies Rush to Scale, Datadog Report Finds",FALSE
+2026-04-22 13:00:00+00:00,Datadog Announces GPU Monitoring to Help Businesses Optimize Spend and Performance as They Aim to Scale AI Projects,TRUE
+2026-05-06 20:04:00+00:00,Datadog for Government Achieves FedRAMP® High Certification,FALSE
+2026-06-09 14:00:00+00:00,Datadog Launches 100+ Capabilities to Help Customers Drive Autonomy and Manage Growing AI and Security Complexity,TRUE
+2026-06-30 20:05:00+00:00,Datadog Acquires Adaptive ML to Accelerate Its Investment in AI Research and Development,FALSE
+2026-07-15 13:00:00+00:00,Datadog Named a Leader in the 2026 Gartner® Magic Quadrant™ For Observability Platforms For Sixth Consecutive Year,FALSE
+2026-07-16 08:00:00+00:00,Datadog Expands UK Data Hosting Capabilities on AWS Europe (London) Region,TRUE
