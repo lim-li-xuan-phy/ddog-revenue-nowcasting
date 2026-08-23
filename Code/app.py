@@ -22,6 +22,9 @@ log = logging.getLogger("dashboard")
 
 # --- BASE PATHS ---
 CODE_DIR = Path(__file__).parent.resolve()
+if str(CODE_DIR) not in sys.path:
+    sys.path.insert(0, str(CODE_DIR))
+
 BASE_DIR = CODE_DIR.parent
 DATA_DIR = BASE_DIR / "Data"
 RESULTS_DIR = BASE_DIR / "Results"
