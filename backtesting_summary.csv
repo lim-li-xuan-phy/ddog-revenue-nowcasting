@@ -1,0 +1,5 @@
+source,metric,optimal window,optimal lag,hy estimator,mape (%),rmse,directional_hit_rate (%),avg_risk_to_reward_ratio,oos_quarters_tested
+Product Releases Frequency,Revenue QoQ Growth Rate (%),71,88,-0.6345,96.91,5.75,57.89,2.37,19
+Tech Headlines Score,RPO YoY Growth Rate (%),9,71,-0.231,64.38,26.57,57.14,1.89,14
+PYPL Returns,Billings YoY Growth Rate (%),90,77,-0.4958,92.39,24.33,69.23,4.98,13
+PYPL Returns,Large Customer QoQ Growth Rate (%),90,20,-0.4396,153.2,5.19,41.18,3.29,17
