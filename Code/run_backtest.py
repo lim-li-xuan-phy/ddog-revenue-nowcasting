@@ -49,7 +49,7 @@ def extract_time_and_values(data: pd.Series) -> Tuple[np.ndarray, np.ndarray]:
     if isinstance(data, pd.Series):
         values = data.to_numpy(dtype=np.float64)
         if isinstance(data.index, pd.DatetimeIndex):
-            timestamps = data.index.astype(np.int64) / 1e9
+            timestamps = pd.to_datetime(data.index, utc=True).tz_localize(None).astype('datetime64[s]').astype(np.int64).astype(np.float64)
         else:
             timestamps = np.asarray(data.index, dtype=np.float64)
     else:

@@ -238,7 +238,9 @@ def load_raw_signals():
     s_ann = pd.Series(dtype=float)
     if ann_path.exists():
         df_ann = pd.read_csv(ann_path, parse_dates=['timestamp_utc'])
-        s_ann = df_ann[df_ann['product_release'] == True].set_index('timestamp_utc')['product_release'].sort_index()
+        if 'product_release' in df_ann.columns:
+            is_rel = df_ann['product_release'].astype(str).str.strip().str.upper().isin(['TRUE', '1'])
+            s_ann = df_ann[is_rel].set_index('timestamp_utc')['product_release'].sort_index()
 
     return s_pypl, s_tech, s_ann
 
@@ -648,20 +650,35 @@ for idx, row in df_pairs.iterrows():
     s_target = qtr_df.set_index('timestamp_utc')[meta['col']].dropna()
     s_rolling_full = get_daily_rolling_series(source_name, window_days)
     
-    t_pred = s_rolling_full.index.astype(np.int64) / 1e9 + 86400 * lag_days
+    t_pred = pd.to_datetime(s_rolling_full.index, utc=True).tz_localize(None).astype('datetime64[s]').astype(np.int64).astype(np.float64) + 86400 * lag_days
     v_pred = s_rolling_full.values
-    t_targ = s_target.index.astype(np.int64) / 1e9
+    t_targ = pd.to_datetime(s_target.index, utc=True).tz_localize(None).astype('datetime64[s]').astype(np.int64).astype(np.float64)
     v_targ = s_target.values
     
-    valid_mask = (t_targ >= t_pred[0]) & (t_targ <= t_pred[-1])
-    matched_idx = np.searchsorted(t_pred, t_targ[valid_mask], side='right') - 1
+    if len(t_pred) > 0 and len(t_targ) > 0:
+        valid_mask = (t_targ >= t_pred[0]) & (t_targ <= t_pred[-1])
+        if np.any(valid_mask):
+            matched_idx = np.searchsorted(t_pred, t_targ[valid_mask], side='right') - 1
+            x_train = v_pred[matched_idx].reshape(-1, 1)
+            y_train = v_targ[valid_mask]
+        else:
+            matched_idx = np.clip(np.searchsorted(t_pred, t_targ, side='right') - 1, 0, len(v_pred) - 1)
+            x_train = v_pred[matched_idx].reshape(-1, 1)
+            y_train = v_targ
+    else:
+        x_train = np.array([]).reshape(0, 1)
+        y_train = np.array([])
     
-    x_train = v_pred[matched_idx].reshape(-1, 1)
-    y_train = v_targ[valid_mask]
-    
-    model = LinearRegression().fit(x_train, y_train)
-    r2 = r2_score(y_train, model.predict(x_train))
-    rmse = np.sqrt(mean_squared_error(y_train, model.predict(x_train)))
+    if len(y_train) >= 2 and len(x_train) >= 2:
+        model = LinearRegression().fit(x_train, y_train)
+        r2 = r2_score(y_train, model.predict(x_train))
+        rmse = np.sqrt(mean_squared_error(y_train, model.predict(x_train)))
+    else:
+        model = LinearRegression()
+        model.coef_ = np.array([0.0])
+        model.intercept_ = float(np.mean(y_train)) if len(y_train) > 0 else 0.0
+        r2 = 0.0
+        rmse = 1.0
     
     daily_x_vals = [s_rolling_full.loc[:d].iloc[-1] for d in target_dates]
     daily_x_arr = np.array(daily_x_vals).reshape(-1, 1)
