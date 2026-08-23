@@ -1,0 +1,14 @@
+source,metric,optimal window,optimal lag,hy estimator,linr_r2,linr_rmse,to_backtest
+PYPL Returns,Revenue (USD),61,67,-0.1239,-13.38508692,563263452.5,
+Product Releases Frequency,Revenue QoQ Growth Rate (%),71,88,-0.6345,-5.207451759,5.301753748,TRUE
+Product Releases Frequency,Revenue YoY Growth Rate (%),48,76,-0.1539,-65.8863633,28.59349961,
+Tech Headlines Score,Remaining Performance Obligations (RPO) (USD),15,21,-0.2444,-7.68063889,1808435032,
+Tech Headlines Score,RPO QoQ Growth Rate (%),90,41,-0.2994,-0.117721665,10.10941087,
+Tech Headlines Score,RPO YoY Growth Rate (%),9,71,-0.231,-5.180251208,27.51557547,TRUE
+PYPL Returns,Calculated Billings (USD),61,43,-0.44,-7.623729136,548497546.1,
+PYPL Returns,Billings QoQ Growth Rate (%),66,72,-0.4444,-0.11959451,19.27311474,
+PYPL Returns,Billings YoY Growth Rate (%),90,77,-0.4958,-9.898520454,19.08224272,TRUE
+Product Releases Frequency,Number of Large Customers (ARR >= $100k),84,1,-0.1255,-22.14150437,1898.861485,
+PYPL Returns,Large Customer QoQ Growth Rate (%),90,20,-0.4396,-10.85875537,5.216360196,TRUE
+PYPL Returns,Large Customer YoY Growth Rate (%),89,37,-0.2697,-35.97703527,23.60092147,
+PYPL Returns,Net Revenue Retention (%),80,29,-0.1857,-12.03694886,7.856322598,
