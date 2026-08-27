@@ -66,7 +66,7 @@ def run_data_collectors():
         import run_backtest
         df_bt, latest_bt_q, detailed_records = run_backtest.run()
         updated_files.append("backtesting_summary.csv")
-        updated_files.append("backtest_detailed_oos.csv")
+        updated_files.append("every_backtest_prediction.csv")
         updated_files.append("walkforward_backtest.png")
     except Exception as e:
         log.warning(f"Error running walk-forward backtesting: {e}")
@@ -191,7 +191,7 @@ def load_backtest_summary():
 
 @st.cache_data
 def load_backtest_detailed():
-    detailed_path = RESULTS_DIR / "Summaries" / "backtest_detailed_oos.csv"
+    detailed_path = RESULTS_DIR / "Summaries" / "every_backtest_prediction.csv"
     if detailed_path.exists():
         df = pd.read_csv(detailed_path)
         df['date'] = pd.to_datetime(df['date'])
@@ -1384,7 +1384,7 @@ with tab4:
 
                         fig_pair = go.Figure()
 
-                        # 1. Actual Values Trace
+                        # Actual Values Trace
                         fig_pair.add_trace(go.Scatter(
                             x=df_pair['date'],
                             y=df_pair['actual'],
@@ -1395,7 +1395,7 @@ with tab4:
                             hovertemplate="<b>Date:</b> %{x|%b %Y}<br><b>Actual:</b> %{y:.2f}%<extra></extra>"
                         ))
 
-                        # 2. Predicted Values Trace
+                        # Predicted Values Trace
                         fig_pair.add_trace(go.Scatter(
                             x=df_pair['date'],
                             y=df_pair['predicted'],
@@ -1406,7 +1406,7 @@ with tab4:
                             hovertemplate="<b>Date:</b> %{x|%b %Y}<br><b>Predicted:</b> %{y:.2f}%<extra></extra>"
                         ))
 
-                        # 3. Annotate Hit / Miss Directional Calls
+                        # Annotate Hit / Miss Directional Calls
                         for _, row_pt in df_pair.iterrows():
                             d_pt = row_pt['date']
                             pred_val = row_pt['predicted']
