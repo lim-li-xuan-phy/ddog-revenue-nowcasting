@@ -394,11 +394,11 @@ def run() -> Tuple[pd.DataFrame, str, dict]:
 
     if detailed_rows:
         df_all_details = pd.DataFrame(detailed_rows)
-        details_path = SUMMARIES_DIR / 'backtest_detailed_oos.csv'
+        details_path = SUMMARIES_DIR / 'every_backtest_prediction.csv'
         df_all_details.to_csv(details_path, index=False)
         log.info(f"Saved detailed OOS backtest records to {details_path.name}.")
 
-    # Generate and save walkforward_backtest.png
+    # Generate and save plots
     if detailed_oos_records:
         plot_backtest_trajectories(detailed_oos_records, df_summary, RESULTS_DIR / 'walkforward_backtest.png')
 
