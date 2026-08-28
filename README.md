@@ -5,12 +5,12 @@ Datadog (NASDAQ:DDOG) is a widely popular platform providing cloud observability
 ```
 ddog-revenue-nowcasting/
 │
-├── README.md                          # This file: Overview
+├── README.md                       # This file: Overview
 │
 ├── DDOG_Revenue_Nowcasting_Report.pdf # Short report on data sources, methodologies, analysis, and findings
 │
 ├── Assets/
-│   └── dd_logo_v_rgb.png             # Company logo for dashboard
+│   └── dd_logo_v_rgb.png           # Company logo for dashboard
 │
 ├── Data/                           # Data used for analysis
 │   ├── qtrly_metrics.csv           # Key quarterly metrics reported by Datadog
